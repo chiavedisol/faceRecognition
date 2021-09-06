@@ -1,0 +1,18 @@
+https://docs.microsoft.com/ja-jp/azure/cognitive-services/face/quickstarts/client-libraries?tabs=visual-studio&pivots=programming-language-python
+face app azure apiで検索
+クイックスタート
+
+前提条件のFaceリソースを作成
+Azureサブスクリプション（無料試用版でOK）
+Resorce groupの名前を適当に設定
+Instance details Region, Nameを設定
+価格帯はFreeF0でOK
+Review＋Create
+　仮想マシンが作成される
+　デプロイが進行中ですdeployment is in progress
+
+リソースに移動
+keys and endpoint
+KEY1 copy
+endpoint copy
+
